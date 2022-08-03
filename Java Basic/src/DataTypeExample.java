@@ -16,6 +16,8 @@ public class DataTypeExample {
 		boolean b2=false;
 		
 		char ch='A';
+		char ch2=65;
+		char ch3='\u0041';
 		
 		System.out.println("String Value : "+s1);
 		System.out.println("byte Value : "+b);
@@ -27,6 +29,8 @@ public class DataTypeExample {
 		System.out.println("boolean Value : "+b1);
 		System.out.println("boolean Value : "+b2);
 		System.out.println("char Value : "+ch);
+		System.out.println("char Value-2 : "+ch2);
+		System.out.println("char Value-3 : "+ch3);
 		
 		
 	}
