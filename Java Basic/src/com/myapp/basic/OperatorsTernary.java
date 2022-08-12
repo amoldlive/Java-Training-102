@@ -1,3 +1,4 @@
+package com.myapp.basic;
 
 public class OperatorsTernary {
 	public static void main(String[] args) {

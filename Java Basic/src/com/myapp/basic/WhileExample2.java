@@ -1,3 +1,4 @@
+package com.myapp.basic;
 
 public class WhileExample2 {
 	public static void main(String[] args) {

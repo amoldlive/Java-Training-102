@@ -1,11 +1,18 @@
+package com.myapp.basic;
+
 import java.util.Scanner;
+/*
+import java.util.Scanner;
+import java.util.*;
+ */
 
 public class ScannerExample {
 	public static void main(String[] args) {
 		
+		Scanner scanner=new Scanner(System.in);
+		
 		/* User Form*/
 		System.out.println("Enter Your age");
-		Scanner scanner=new Scanner(System.in);
 		int age=scanner.nextInt();
 		
 		System.out.println("Enter Your Weight");

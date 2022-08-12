@@ -1,3 +1,4 @@
+package com.myapp.basic;
 
 public class ForLoopExample4 {
 	public static void main(String[] args) {

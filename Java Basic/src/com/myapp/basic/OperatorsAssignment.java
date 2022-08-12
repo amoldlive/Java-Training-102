@@ -1,3 +1,4 @@
+package com.myapp.basic;
 
 public class OperatorsAssignment {
 	public static void main(String[] args) {
