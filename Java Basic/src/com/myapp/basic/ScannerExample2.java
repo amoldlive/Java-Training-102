@@ -20,6 +20,7 @@ public class ScannerExample2 {
 		System.out.println("Enter Your city");
 		String city=scanner.next();
 		
+		//char ch=city.charAt(0);
 		
 		
 		

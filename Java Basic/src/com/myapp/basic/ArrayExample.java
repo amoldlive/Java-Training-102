@@ -19,6 +19,8 @@ public class ArrayExample {
 		
 		int firstValue=arr[0];
 		int secondValue=arr[1];
+		System.out.println("size of the array : "+arr.length);
+		//System.out.println("value at 7th location "+arr[7]);
 		
 		System.out.println(firstValue);
 		System.out.println(secondValue);
