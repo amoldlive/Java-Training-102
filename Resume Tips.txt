@@ -1,0 +1,19 @@
+Resume
+--------------------
+name
+address [address/email/phon/alt phone/linked/github]
+career objctive 
+education
+	higher-lower[Be/hsc/ssc/ % / year]
+technical skills
+		[c-java]
+technical tools
+		[dev c, eclipse ,vs code]
+project
+		name / description / tech / tools 
+
+hobbies
+
+achievement/certification
+			
+language [e/h/m]
