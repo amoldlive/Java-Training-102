@@ -17,3 +17,16 @@ hobbies
 achievement/certification
 			
 language [e/h/m]
+
+
+--------------------------
+Tell me about yourself
+-------------------------
+name
+education
+technical skills/tools
+achievent
+hobies
+
+
+			
