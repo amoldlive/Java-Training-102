@@ -1,4 +1,4 @@
-package com.myapp.oop;
+package com.myapp.advance;
 
 public class LocalVariableExample {
 	
