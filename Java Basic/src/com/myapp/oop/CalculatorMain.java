@@ -38,6 +38,26 @@ class Calculator1{
 	}
 	
 }
+class Calculator2 {
+
+	public static void add(int a, int b) {
+		int add=a+b;
+		System.out.println("Addition : "+add);
+	}
+
+	public static void sub(int a, int b) {
+
+	}
+
+	public static void mul(int a, int b) {
+
+	}
+
+	public static void div(int a, int b) {
+
+	}
+
+}
 public class CalculatorMain {
 	public static void main(String[] args) {
 			
