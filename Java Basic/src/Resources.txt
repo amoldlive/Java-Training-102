@@ -1,0 +1,126 @@
+Data Type
+	premitive  [devrived from c,c++]
+		byte short int long
+		double float
+		boolean char
+	non premitive [user defined]
+		String 
+		Array
+		[new Classes / interfaces]
+		
+Loops : 
+	While 
+	do -while 
+	for
+
+Operator :
+		+,-,*,/,%
+		<,>,==,<=,>=,!=
+		?:
+		&&,||,!
+		=,+=,-=,*=,/=
+
+Condition statement : 
+			if else
+			nested if else
+			ladder if else
+			
+			switch-case
+			nested switch case
+
+Array :
+			Same data type | fixed size 
+			int[] a=new int[6];
+			int[] a={1,2,3};
+			index : 0
+			last index : a.length-1
+			length : a.length
+
+String :
+			String s="Hello";
+			String s=new String("Hello");
+			
+			==  vs .equals
+			== 			--> references
+			.equals 	-->	Content
+			
+			length()
+			split
+			toCharArray
+			trim
+			equals
+			equalsIgnoreCase
+			intern
+
+OOPS : 
+			Encapsulation : private data member / getter setter
+			Polymorphisam : Mthod Overloading/Method Overriding [rules]
+			Inheritance : single /multilevel/hirachical   | [multiple -- not supported]
+			Astraction : Abstarct class / interface 
+			[Abstract class vs interface]
+			
+			this Keyword ->current object 
+			super keyword -> Parent class object
+			
+			final keyword -> restriction [variables/method/class]
+				final variable -> constant
+				final method  -> can not overriden
+				final class -> inheritance
+				
+
+Static :
+			variable : only 1 copy will be created 
+			methods : it does not required Object 
+
+			ClassName.MethodName();
+
+Collection :
+			List [I] 	
+				ArrayList [C]
+				LinkedList [C]
+				Vector [C]
+				Stack	[C]
+			Set [I]
+				HashSet
+				LinkedHashSet
+				TreeSet
+			Map
+				HashMap
+				LinkedHashMap
+				TreeMap
+			Queue
+				ProprityQueue
+				ArrayDequeu
+				
+Utility Classes : 
+				Arrays
+				Collections
+				
+
+Data Structure
+		Searching
+			Linear Search
+			Binary Search
+		Sorting
+			Bubble Sort
+			Selection Sort
+			Insertion Sort 
+			
+			Merge Sort
+			Quick Sort
+				
+				
+			
+			
+		
+			
+			
+			
+		
+		
+		
+		
+		
+	
+		
+		
