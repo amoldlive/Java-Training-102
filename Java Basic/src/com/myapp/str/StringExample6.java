@@ -9,7 +9,7 @@ public class StringExample6 {
 		String str2 = new String("Hello");
 
 		
-		String str3=str.intern(); // point to the object created in SCP
+		String str3=str2.intern(); // point to the object created in SCP
 	}
 
 }

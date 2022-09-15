@@ -34,9 +34,9 @@ public class StringExample {
 		System.out.println(firtsName + lastName);
 
 		String word = "   A    ";
-		System.out.println(word.length());
+		System.out.println(word.length()); //6
 		String newWord = word.trim();
-		System.out.println(newWord + "    :  " + newWord.length());
+		System.out.println(newWord + "    :  " + newWord.length()); //1
 
 	}
 }
